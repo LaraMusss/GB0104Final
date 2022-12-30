@@ -1,0 +1,15 @@
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\bin\Debug\net6.0\TaskFinal0104.exe
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\bin\Debug\net6.0\TaskFinal0104.deps.json
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\bin\Debug\net6.0\TaskFinal0104.runtimeconfig.json
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\bin\Debug\net6.0\TaskFinal0104.dll
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\bin\Debug\net6.0\TaskFinal0104.pdb
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.csproj.AssemblyReference.cache
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.AssemblyInfoInputs.cache
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.AssemblyInfo.cs
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.csproj.CoreCompileInputs.cache
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.dll
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\refint\TaskFinal0104.dll
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.pdb
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\TaskFinal0104.genruntimeconfig.cache
+C:\Origin_Repoz\GB0104Final\TaskFinal0104\obj\Debug\net6.0\ref\TaskFinal0104.dll
